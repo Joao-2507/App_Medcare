@@ -268,12 +268,13 @@ Projeto desenvolvido em equipe.
 
 **Integrantes:**
 
-- João Victor Salústio
-- [Adicionar os demais integrantes]
-
-**Repositório original:**
-
-[Adicionar link do repositório original]
+- João Victor de Souza Pereira da Costa Salústio
+- Thamirys Carollina Barbosa de Barros
+- Guilherme Ribeiro Amorim
+- João Lucas de Holanda Paiva 
+- Enzo Rangel Monteiro da Silva
+- Camila Marin Silva Matos
+- Andrezza Cristina da Silva Barros Souza. (Professora orientadora do projeto).
 
 ---
 
